@@ -29,7 +29,7 @@ The subject was asked to return back to main page and then asked to find classes
 _Key Takeaways_
 -The fact Class Search doesn't have a time filter makes it harder to find classes that fits someone's schedule
 -Its important the search doesn't have too many options at first as then the user will not remember everything
-![](5.png=250x250) ![](6.png=250x250)
+![](5.png) ![](6.png)
 
 
 ### Task 3: Finding Classes in the Applied Math Department
@@ -37,7 +37,7 @@ The subject was asked to return back to main page and then asked to find classes
 
 _Key Takeaways_
 -This was something that was meant to be a baseline , however it shows how important it is to sort based on the user's intuition 
-![Image](7.png=250x250) ![](8.png)
+![Image](7.png) ![](8.png)
 
 ### Task 4: Finding Classes Including Topics about the Civil War
 Finally the user one more time to to main page and then asked to find classes that discuss the Civil War. The subject first tried to find classes that had "Civil War" in the name. However no classes appeared so he went back. After seeing no other type of search includes a description based search, he said he remembered that there was a History Department so he searched with that. He then began reading every single description on the first 2 pages until he found a class about the Civil Rights Movement and argued that could contain information about the Civil War. He also commented "I hope your advisors know what different classes are about".
