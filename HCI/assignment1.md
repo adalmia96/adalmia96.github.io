@@ -27,8 +27,8 @@ _Key Takeaways_
 The subject was asked to return back to main page and then asked to find classes that only occured on Tuesday and Thrusday at 11-1. I was surprised even if the user saw the advanced search tab, he chose to do a "empty" search and then navigate to the side panel to filter by the days. I asked him why that was and if he noticed that option in the advance search in the first place and he said he didn't remember having that option. He then clicked on the days and selected "on exact days". He however could not figure out how to look at specific times and simply began writing down the classes with a certain time that fit.
 
 _Key Takeaways_
--The fact Class Search doesn't have a time filter makes it harder to find classes that fits someone's schedule
--Its important the search doesn't have too many options at first as then the user will not remember everything
+- The fact Class Search doesn't have a time filter makes it harder to find classes that fits someone's schedule
+- Its important the search doesn't have too many options at first as then the user will not remember everything
 ![](5.png) ![](7.png) 
 
 
@@ -36,14 +36,14 @@ _Key Takeaways_
 The subject was asked to return back to main page and then asked to find classes offered by the Applied Math Department(as that one of my two majors). The subject went to the "Department" dropdown. The subject initially got stuck as the departments were listed by AS then EN so the Applied Math Department wasn't at the top. Once he scrolled down he found it and clicked search. 
 
 _Key Takeaways_
--This was something that was meant to be a baseline , however it shows how important it is to sort based on the user's intuition 
+- This was something that was meant to be a baseline , however it shows how important it is to sort based on the user's intuition 
 ![](8.png)
 
 ### Task 4: Finding Classes Including Topics about the Civil War
 Finally the user one more time to to main page and then asked to find classes that discuss the Civil War. The subject first tried to find classes that had "Civil War" in the name. However no classes appeared so he went back. After seeing no other type of search includes a description based search, he said he remembered that there was a History Department so he searched with that. He then began reading every single description on the first 2 pages until he found a class about the Civil Rights Movement and argued that could contain information about the Civil War. He also commented "I hope your advisors know what different classes are about".
 
 _Key Takeaways_
--Class Search is limted in terms of its discoverability and if students want to find class about specific topics, they would need to read many descriptions before they can find classes they want. This is not ideal and takes away precious time. 
+- Class Search is limted in terms of its discoverability and if students want to find class about specific topics, they would need to read many descriptions before they can find classes they want. This is not ideal and takes away precious time. 
 ![](1.png)
 
 ### One Additional Discovery:
