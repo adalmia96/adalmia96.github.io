@@ -49,6 +49,11 @@ _Key Takeaways_
 As we were looking at classes, one more thing the subject mentioned was when he was looking at the classes, he was annoyed that the classes were ordered by class number and could not be ordered by something like open seats. From his experience of class registration, he knew that as classes that have fewer seats are harder to get so he was indavertenly looking for larger class sizes so he make sure he can actually get the class. 
 
 ## Sequential Model 
+Note I used Miro to make my models so I apologize for having them a bit horizontal.
+![](MindMap_1.png)
+![](MindMap_2.png)
+![](MindMap_3.png)
+![](MindMap_4.png)
 
 ## "Paper-based" prototype
 
