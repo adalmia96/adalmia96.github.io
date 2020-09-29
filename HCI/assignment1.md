@@ -16,7 +16,14 @@ _Due to Privacy Reasons, I can not include a video of the Contextual Inquiry ses
 
 ### Task 1: Finding Only Writing Intensive Classes
 The subject was asked to navigate to the the "Class Search" tab. As there are few classes in Spring 2021, the subject was asked to click on Fall 2021. The subject was then asked to search for writing intensive classes only. The first thing the subject did was write "Writing Intensive" in the "Class Title" and then searched. However as that produced nothing, he clicked back and then just clicked search without typing anything. I asked him why did he type nothing, and he said he thought that will show all classes. Then on the search page, he saw all classes and noticed the "Writing Intensive" column. He tried clicking on the column, however nothing happened and he then looked at the left side to see if there was an option. After a few minutes of clicking different places, he by accident clicked back and then said that "Basic search failed, let's try Advanced Search". Then he noticed immediately the "Writing Intensive Option" and clicked on that and searched.
-
+![Image](1.png)
+![Image](2.png)
+![Image](3.png)
+![Image](4.png)
+![Image](5.png)
+![Image](6.png)
+![Image](7.png)
+![Image](8.png)
 _Key Takeaways_
 - New users to Class Search do not immediately think to go to advanced search (in general the two additional search tabs were not used unless necessary)
 - Something as important (and as we can seen as basic) as Writing Intensive was added to the advanced search and there was no clear way to change that 
