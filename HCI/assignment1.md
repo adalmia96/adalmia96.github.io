@@ -21,7 +21,7 @@ _Key Takeaways_
 - New users to Class Search do not immediately think to go to advanced search (in general the two additional search tabs were not used unless necessary)
 - Something as important (and as we can seen as basic) as Writing Intensive was added to the advanced search and there was no clear way to change that 
 
-![Image](2.png) ![](3.png) ![Image](4.png)
+![](3.png) ![](4.png)
 
 ### Task 2: Finding Classes on Certain Times and Days
 The subject was asked to return back to main page and then asked to find classes that only occured on Tuesday and Thrusday at 11-1. I was surprised even if the user saw the advanced search tab, he chose to do a "empty" search and then navigate to the side panel to filter by the days. I asked him why that was and if he noticed that option in the advance search in the first place and he said he didn't remember having that option. He then clicked on the days and selected "on exact days". He however could not figure out how to look at specific times and simply began writing down the classes with a certain time that fit.
