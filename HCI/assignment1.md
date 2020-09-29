@@ -37,7 +37,7 @@ The subject was asked to return back to main page and then asked to find classes
 
 _Key Takeaways_
 -This was something that was meant to be a baseline , however it shows how important it is to sort based on the user's intuition 
-![Image](7.png=250x250) ![Image](8.png=250x250)
+![Image](7.png=250x250) ![Image](8.png | width=100)
 
 ### Task 4: Finding Classes Including Topics about the Civil War
 Finally the user one more time to to main page and then asked to find classes that discuss the Civil War. The subject first tried to find classes that had "Civil War" in the name. However no classes appeared so he went back. After seeing no other type of search includes a description based search, he said he remembered that there was a History Department so he searched with that. He then began reading every single description on the first 2 pages until he found a class about the Civil Rights Movement and argued that could contain information about the Civil War. He also commented "I hope your advisors know what different classes are about".
