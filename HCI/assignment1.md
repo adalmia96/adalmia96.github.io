@@ -56,6 +56,15 @@ Note I used Miro to make my models so I apologize for having them a bit horizont
 ![](MindMap_4.jpg)
 
 ## "Paper-based" prototype
+### Improvements
+- Allowed users to do a new search without needing go back to the main page
+- Moved certains filters that are important to the basic filter
+- Added a "Description" search so people can searcg topics
+- Reduced the three different searches to one "basic" search. I then moved the additional functionality search to once you've done search
+- Cleaned up the search output and included less important information in the main description
+
+Here is the link to the powerpoint to the "paper"-prototype:
+
 
 
 ## "Paper-based" evaluation
