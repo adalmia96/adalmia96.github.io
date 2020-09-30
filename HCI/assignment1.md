@@ -51,7 +51,7 @@ As we were looking at classes, one more thing the subject mentioned was when he 
 ## Sequential Model 
 Note I used Miro to make my models so I apologize for having them a bit horizontal.
 ![](MindMap_1.jpg)
-![](MindMap_2.jpg)
+![](MindMap_2_new.jpg)
 ![](MindMap_3.jpg)
 ![](MindMap_4.jpg)
 
