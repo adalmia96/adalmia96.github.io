@@ -23,10 +23,10 @@ _Key Takeaways_
 
 ![](2.png)  ![](3.png) 
 ### Task 2: Finding Classes on Certain Times and Days
-The subject was asked to return back to main page and then asked to find classes that only occured on Tuesday and Thrusday at 11-1. I was surprised even if the user saw the advanced search tab, he chose to do a "empty" search and then navigate to the side panel to filter by the days. I asked him why that was and if he noticed that option in the advance search in the first place and he said he didn't remember having that option. He then clicked on the days and selected "on exact days". He however could not figure out how to look at specific times and simply began writing down the classes with a certain time that fit.
+The subject was asked to return back to main page and then asked to find classes that only occured on Tuesday and Thrusday at 11-1. I was surprised even if the user saw the advanced search tab, he chose to do a "empty" search and then navigate to the side panel to filter by the days. I asked him why that was and if he noticed that option in the advance search in the first place and he said he didn't remember having that option. He then clicked on the days and selected "on exact days". He however could not figure out how to look at specific times. He went back to the main search page and clicked on advanced search. There he saw there were choices to choose both days and time and clicked on that.
 
 _Key Takeaways_
-- The fact Class Search doesn't have a time filter makes it harder to find classes that fits someone's schedule
+- The fact Class Search doesn't have a time filter once you click search makes it tedious as you have to go back. 
 - Its important the search doesn't have too many options at first as then the user will not remember everything
 ![](4.png) ![](5.png) 
 
