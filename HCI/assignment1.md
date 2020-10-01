@@ -91,6 +91,7 @@ _Final result_
 
 ### Task 4: Finding Classes Including Topics about the Civil War
 Finally the user one more time to to main page and then asked to find classes that discuss the Civil War. The subject typed in "Civil War" into the the description tab (he did have to ask what it meant though)and then clicked search. 
+
 _Final result_
 - While the addition made this task easy, it important also realize as this is new, it might need an explanation blurb next to it.
 
