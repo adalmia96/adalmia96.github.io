@@ -63,7 +63,7 @@ Note I used Miro to make my models so I apologize for having them a bit horizont
 - Reduced the three different searches to one "basic" search. I then moved the additional functionality search to once you've done search
 - Cleaned up the search output and included less important information in the main description
 
-Here is the link to the powerpoint to the "paper"-prototype:
+Here is the link to the powerpoint to the "paper"-prototype: [Link](https://github.com/adalmia96/adalmia96.github.io/blob/master/HCI/Paper_prototype.pptx)
 
 
 
