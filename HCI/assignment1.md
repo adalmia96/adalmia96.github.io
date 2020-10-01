@@ -1,8 +1,8 @@
-## Design Focus and Problem Space
+# Design Focus and Problem Space
 I wanted to use this assignment focus on redesigning the Class Search page on SIS. As Class Search is one of the primary ways for students to find classes and make their schedule, I wanted to see what I can do to improve the experience
-### Primary Users
+## Primary Users
 Class Search is a page on SIS that is used by every student (both undergraduate and graduate) to help register classes. This page is used to find classes to either add them to your cart or register them directly. 
-### Brief Overview of the Key Problems
+## Brief Overview of the Key Problems
 _Note:This will be discussed in more detail in the Contextual Theory_
 
 Currently SIS has a very Class Search tab that contains three different types of search: basic, advanced and multi-school. While these search options make it easy to distinguish based on logistic factors such as location and department, there tend to some problems I've noticed:
@@ -10,7 +10,7 @@ Currently SIS has a very Class Search tab that contains three different types of
 - Also, once clicking "Search", there is little to no functionality supported to ordering your classes or to futher filter the options. 
 - Finally, unlike most search engines, Class Search only works well if you know what your looking for. That means if you are a new student or a current student trying to find class about certain topics but don't know the class name or class id, then you are mostly out of lucky(more on this later). 
 
-## Contextual Theory
+# Contextual Theory
 To conduct this, I've asked one of my neighbors(who I will refer as the subject for privacy) who is currently starting his college experience. This is perfect as he hasn't used SIS before and would be an example of a incoming student who doesn't have an exact idea of all the classes available and all the location of all the filters.
 _Due to Privacy Reasons, I can not include a video of the Contextual Inquiry session_
 
@@ -48,15 +48,15 @@ _Key Takeaways_
 ### One Additional Discovery:
 As we were looking at classes, one more thing the subject mentioned was when he was looking at the classes, he was annoyed that the classes were ordered by class number and could not be ordered by something like open seats. From his experience of class registration, he knew that as classes that have fewer seats are harder to get so he was indavertenly looking for larger class sizes so he make sure he can actually get the class. 
 
-## Sequential Model 
+# Sequential Model 
 Note I used Miro to make my models so I apologize for having them a bit horizontal.
 ![](MindMap_1.jpg)
 ![](MindMap_2_new.jpg)
 ![](MindMap_3.jpg)
 ![](MindMap_4.jpg)
 
-## "Paper-based" prototype
-### Improvements
+# "Paper-based" prototype
+## Improvements
 - Allowed users to do a new search without needing go back to the main page
 - Moved certains filters that are important to the basic filter
 - Added a "Description" search so people can searcg topics
@@ -68,7 +68,7 @@ Here is the link to the powerpoint to the "paper"-prototype: [Link](https://gith
 Here is a video explaining my prototype and how it works (not as search contains many features, I've focused on implementing based on the tasks I've asked only)
 [![](Cover.png)](https://youtu.be/6oxxs2hTTWw)
 
-## "Paper-based" evaluation
+# "Paper-based" evaluation
 _Note once again for privacy I will simply write down the results_
 ### Task 1: Finding Only Writing Intensive Classes
 The subject was asked to navigate to the the "Class Search" tab. As there are few classes in Spring 2021, the subject was asked to click on Fall 2021. The subject was then asked to search for writing intensive classes only. The subject clicked on the "Writing Intensive" option and the clicked search.
@@ -88,7 +88,6 @@ The subject was asked to return back to main page and then asked to find classes
 
 _Final result_
 - By spliting school and department, made the search easier and intuitive
-
 
 ### Task 4: Finding Classes Including Topics about the Civil War
 Finally the user one more time to to main page and then asked to find classes that discuss the Civil War. The subject typed in "Civil War" into the the description tab (he did have to ask what it meant though)and then clicked search. 
