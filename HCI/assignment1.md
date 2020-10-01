@@ -68,24 +68,32 @@ Here is the link to the powerpoint to the "paper"-prototype: [Link](https://gith
 
 
 ## "Paper-based" evaluation
+_Note once again for privacy I will simply write down the results_
+### Task 1: Finding Only Writing Intensive Classes
+The subject was asked to navigate to the the "Class Search" tab. As there are few classes in Spring 2021, the subject was asked to click on Fall 2021. The subject was then asked to search for writing intensive classes only. The subject clicked on the "Writing Intensive" option and the clicked search.
 
-```markdown
-Syntax highlighted code block
+_Final result_
+- By creating a simple check with everything on one main search page, the subject easilt completed the task
 
-# Header 1
-## Header 2
-### Header 3
+### Task 2: Finding Classes on Certain Times and Days
+The subject was asked to return back to main page and then asked to find classes that only occured on Tuesday and Thrusday at 11-1. The subject did an "empty search" and the saw on the left hand side the options to filter by Day and time. The subject then clicked down on the days and selected bith Tuesday and Thursday. Then the user selected "11:00 am" for start and then "1:00 PM" for end. The subject initially waited for it to auto filter but when nothing changed, the user clicked search and then all the correct classes appearred. 
 
-- Bulleted
-- List
+_Final result_
+- The user was able to easily filter based on days and exact times. However the user did say it was cumbersome to select everything so further investigation that will be good
+- While it was easy for the user selects the correct options, the fact that clicking search after wasn't clear is another point to fix. (if I could do multiple iterations)
 
-1. Numbered
-2. List
+### Task 3: Finding Classes in the Applied Math Department
+The subject was asked to return back to main page and then asked to find classes offered by the Applied Math Department. The subject went to the "Department" dropdown for the department nane. The subject sees Applied Math Department, clicks on it and then searches.
 
-**Bold** and _Italic_ and `Code` text
+_Final result_
+- By spliting school and department, made the search easier and intuitive
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Task 4: Finding Classes Including Topics about the Civil War
+Finally the user one more time to to main page and then asked to find classes that discuss the Civil War. The subject typed in "Civil War" into the the description tab (he did have to ask what it meant though)and then clicked search. 
+_Final result_
+- While the addition made this task easy, it important also realize as this is new, it might need an explanation blurb next to it.
+
+## Conclusion
+I was able to make a better experience for class search for the tasks I've assigned making them easier and faster to do for the most part. With more iterations, I would have improved what I've mentioned and tried to delve deeper to the description tab. Please let me know what you think and any comments/questions you have!
 
