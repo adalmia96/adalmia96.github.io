@@ -64,8 +64,8 @@ Note I used Miro to make my models so I apologize for having them a bit horizont
 - Cleaned up the search output and included less important information in the main description
 
 Here is the link to the powerpoint to the "paper"-prototype: [Link](https://github.com/adalmia96/adalmia96.github.io/blob/master/HCI/Paper_prototype.pptx)
-
-
+Here is a video explaining my prototype and how it works (not as search contains many features, I've focused on implementing based on the tasks I've asked only)
+![](HCI/Screen Shot 2020-10-01 at 10.21.33 AM.png)
 
 ## "Paper-based" evaluation
 _Note once again for privacy I will simply write down the results_
